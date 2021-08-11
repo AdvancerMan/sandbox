@@ -1,4 +1,4 @@
-package com.company.test
+package ru.scoltech.openran.speedtest
 
 import org.junit.Test
 

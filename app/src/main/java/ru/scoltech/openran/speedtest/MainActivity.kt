@@ -1,9 +1,9 @@
-package com.company.test
+package ru.scoltech.openran.speedtest
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ArrayAdapter
-import com.company.test.databinding.ActivityMainBinding
+import ru.scoltech.openran.speedtest.databinding.ActivityMainBinding
 import java.net.Inet4Address
 import java.net.NetworkInterface
 

@@ -17,7 +17,7 @@ android {
     ndkVersion "19.2.5345600"
 
     defaultConfig {
-        applicationId "com.company.test"
+        applicationId "ru.scoltech.openran.speedtest"
         minSdkVersion 24
         targetSdkVersion 30
         versionCode 1
